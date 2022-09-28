@@ -2,19 +2,22 @@
   "kurs":"20.40",
   "ads": [
     {
-      "thumbnail": "https://picsum.photos/1336/720.jpg",
+      "thumbnail": "https://indicator.ru/thumb/1500x0/filters:quality(75):no_upscale()/imgs/2019/08/13/13/3515290/a1ecb28bb786e47e966700e573595acc2f80885d.jpg",
       "url": "https://google.com"
     },
     {
-      "thumbnail": "https://picsum.photos/1335/719.jpg",
+      "thumbnail": "https://img6.eadaily.com/c650x400/o/d8e/5d322bafdc07a42535a47dbd96d8a.jpeg",
       "url": "https://youtube.com"
     },
     {
-      "thumbnail": "https://picsum.photos/1337/721.jpg",
+      "thumbnail": "https://elorda.info/cache/imagine/1200/uploads/news/2021/11/6180c58a5b96c259961312.jpg",
       "url": "https://twitch.com"
     },
     {
-      "thumbnail": "https://picsum.photos/1338/722.jpg",
+      "thumbnail": "https://www.forumdaily.com/wp-content/uploads/2021/05/shutterstock_1698227716.jpg",
+      "url": "https://m.tmtub.com"
+    },{
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROWP0d04YVwtZ0d4uSYxZYiixAqle61DyEAQ&usqp=CAU",
       "url": "https://m.tmtub.com"
     }
   ]
