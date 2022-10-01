@@ -10,14 +10,13 @@
       "url": "https://google.com"
     }
   ],
-  "velayats": [
+  "velayats":
     {
       "AG": "19.70",
       "BL": "19.70",
       "MR": "19.70",
       "LB": "19.70",
       "DZ": "19.70"
-    }
-  ],
+    },
   "version": "1.0.0"
 }
